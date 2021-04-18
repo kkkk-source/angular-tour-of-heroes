@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  heroApiUrl: 'http://localhost:8080/heroes'
+  heroApiUrl: 'http://ec2-54-91-181-104.compute-1.amazonaws.com:8080/heroes'
 };
 
 /*
